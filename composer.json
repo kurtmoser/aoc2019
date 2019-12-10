@@ -1,0 +1,18 @@
+{
+    "name": "kurtmoser/aoc2019",
+    "description": "Advent of Code 2019",
+    "authors": [
+        {
+            "name": "Kurt Moser",
+            "email": "kurt@suvaline.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
