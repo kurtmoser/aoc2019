@@ -4,9 +4,7 @@ namespace Aoc2019\Day16;
 
 class TransmissionCleaner
 {
-    public $basePattern = [];
-
-    public $inputSignal = '';
+    protected $basePattern = [];
 
     public function setBasePattern($basePattern)
     {
