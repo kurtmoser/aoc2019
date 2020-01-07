@@ -14,3 +14,7 @@ $scaffoldRunner->buildMap();
 // Part 1
 
 echo $scaffoldRunner->getCrossingCoordinatesSum() . PHP_EOL;
+
+// Part 2
+
+echo $scaffoldRunner->getCollectedDustAmount() . PHP_EOL;
